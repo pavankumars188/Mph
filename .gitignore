@@ -5,7 +5,7 @@
 *.log
 .classpath
 .bin/
-.setting/
+.settings/
 .project
 
 
